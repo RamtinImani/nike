@@ -16,7 +16,7 @@ This is a fully responsive landing page designed to showcase Nike sneakers in an
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/nike-landing-page.git
+   git clone https://github.com/RamtinImani/nike.git
 2. **Navigate to the project folder**
 
    ```bash
