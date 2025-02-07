@@ -16,6 +16,20 @@ This is a fully responsive landing page designed to showcase Nike sneakers in an
 [Insert Screenshot/GIF here]  
 
 ## 🚀 How to Use  
-1. **Clone the repository**  
+1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/nike-landing-page.git
+2. **Navigate to the project folder**
+
+   ```bash
+   cd project folder name
+3. **Install dependencies**
+
+   ```bash
+   npm install
+4. **Start the development server**
+
+   ```bash
+   npm run dev
+5.**Open your browser and go to http://localhost:5173/ (if using Vite)**
