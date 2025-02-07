@@ -10,10 +10,7 @@ This is a fully responsive landing page designed to showcase Nike sneakers in an
 ✅ **Modern UI/UX** – A visually appealing layout with a minimalist and clean design.  
 ✅ **React Components** – Organized and reusable components for better maintainability.  
 ✅ **Tailwind Utility Classes** – Used to style elements efficiently without writing extra CSS.  
-✅ **Fast Performance** – Optimized for smooth and fast loading.  
-
-## 📸 Preview  
-[Insert Screenshot/GIF here]  
+✅ **Fast Performance** – Optimized for smooth and fast loading.   
 
 ## 🚀 How to Use  
 1. **Clone the repository**
@@ -33,3 +30,10 @@ This is a fully responsive landing page designed to showcase Nike sneakers in an
    ```bash
    npm run dev
 5.**Open your browser and go to http://localhost:5173/ (if using Vite)**
+
+### 🪄 `Made With 🤍`
+---
+## 📸 Preview
+![preview image](/preview.png)
+---
+### 🎨 This project’s UI design is sourced from "Javascript Mastery"
