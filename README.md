@@ -31,9 +31,14 @@ This is a fully responsive landing page designed to showcase Nike sneakers in an
    npm run dev
 5.**Open your browser and go to http://localhost:5173/ (if using Vite)**
 
-### 🪄 `Made With 🤍`
 ---
-## 📸 Preview
+
+## 🌐 Online Preview
+
+👉 [**https://nikesneaks.netlify.app/**](https://nikesneaks.netlify.app/)
+
+---
+## 📸 Screenshots
 ![preview image](/preview.png)
 ---
 ### 🎨 This project’s UI design is sourced from "Javascript Mastery"
